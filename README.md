@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me 👩🏻‍💻
 
-<!--
-**hellocandi/hellocandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Maria Cândida Guerra, 21 years old and currently living in Brazil. Graduate student in Computer Science at Pontifícia Universidade Católica de Minas Gerais, in Belo Horizonte, Minas Gerais.
 
-Here are some ideas to get you started:
+A software developer eager to learn and happy to teach what I know.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quatro Patas 🐾
+
+Hey, i'm supporting an ong that helps animals in grave situations, and we really need your help. Don’t need to do it with money, just share it to alcance more people.
+
+- <a href="https://instagram.com/quatropatasitabira">Instagram - Quatro Patas</a>
+
+### Contact Me 👇🏻
+
+- <a href="https://www.linkedin.com/in/mariacandidaguerra/">Linkedin</a>
+

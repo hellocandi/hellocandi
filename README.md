@@ -1,6 +1,6 @@
 ### About Me 👩🏻‍💻
 
-I’m Maria Cândida Guerra, 21 years old and currently living in Brazil. Graduate student in Computer Science at Pontifícia Universidade Católica de Minas Gerais, in Belo Horizonte, Minas Gerais.
+I’m Maria Cândida Guerra, 21 years old and currently living in Brazil. Graduate student in Information Systems at Pontifícia Universidade Católica de Minas Gerais, in Belo Horizonte, Minas Gerais.
 
 A software developer eager to learn and happy to teach what I know.
 
